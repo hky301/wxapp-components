@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "Layout 栅格布局",
+  "usingComponents": {
+    "i-panel": "../../components/panel/index",
+    "i-row": "../../components/row/index",
+    "i-col": "../../components/col/index"
+  }
+}

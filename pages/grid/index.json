@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "Grid 宫格",
+  "usingComponents": {
+    "i-grid": "../../components/grid/index",
+    "i-grid-item": "../../components/grid-item/index",
+    "i-grid-icon": "../../components/grid-icon/index",
+    "i-grid-label": "../../components/grid-label/index",
+    "i-icon": "../../components/icon/index",
+    "i-row": "../../components/row/index"
+  }
+}

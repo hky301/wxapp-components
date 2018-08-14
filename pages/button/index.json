@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "Button 按钮",
+  "usingComponents": {
+    "i-button": "../../components/button/index",
+    "i-panel": "../../components/panel/index"
+  }
+}
